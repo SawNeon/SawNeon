@@ -2,7 +2,12 @@
 
 **`Desenvolvedora Back-and`**
 
-Me chamo Matheus Bastos Tavares, tenho 21 anos e sou natural de São Paulo SP, moro em Varginha MG. Atualmente, estou cursando Ciencia da Computação no UNIS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[SawNeon](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Tenho 21 anos, sou natural de São Paulo - SP e moro em Varginha - MG. Atualmente, estou cursando Ciência da Computação no UNIS e sou apaixonado por tecnologia.
+
+Ao longo da minha jornada, tenho me dedicado ao estudo e à prática constante da programação, buscando sempre aprimorar minhas habilidades. Para compartilhar meu conhecimento, criei o canal no "[SawNeon](https://www.youtube.com/@sawneon9410)", onde ensino a criação de projetos web, e também utilizo meu perfil no instagram "[matheus_bst](https://www.instagram.com/matheus_bst/)" para interagir com a comunidade e compartilhar mais sobre meu trabalho.
+
+Além disso, sou ativo em maratonas de programação e participo regularmente de desafios no "[beecrowd](https://judge.beecrowd.com/pt/profile/972530)", onde aprimoro minhas habilidades de resolução de problemas e lógica.
+
 
 <p align="left">
     <a href="https:/https://www.youtube.com/@sawneon9410/featured">
@@ -12,25 +17,25 @@ Me chamo Matheus Bastos Tavares, tenho 21 anos e sou natural de São Paulo SP, m
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@sawneon9410">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/SawNeon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/SawNeon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/SawNeon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/SawNeon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
