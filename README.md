@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Matheus Bastos Tavares
+# Matheus Bastos Tavares
 
 **`Desenvolvedora Back-and`**
 
-Tenho 21 anos, sou natural de São Paulo - SP e moro em Varginha - MG. Atualmente, estou cursando Ciência da Computação no UNIS e sou apaixonado por tecnologia.
+Tenho 22 anos, sou natural de São Paulo - SP e moro em Varginha - MG. Atualmente, estou cursando Ciência da Computação no UNIS e sou apaixonado por tecnologia.
 
 Ao longo da minha jornada, tenho me dedicado ao estudo e à prática constante da programação, buscando sempre aprimorar minhas habilidades. Para compartilhar meu conhecimento, criei o canal no "[SawNeon](https://www.youtube.com/@sawneon9410)", onde ensino a criação de projetos web, e também utilizo meu perfil no instagram "[matheus_bst](https://www.instagram.com/matheus_bst/)" para interagir com a comunidade e compartilhar mais sobre meu trabalho.
 
