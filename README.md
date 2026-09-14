@@ -46,22 +46,6 @@ Estou evoluindo de suporte de TI para uma posição de **Engenheiro de Software 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawNeon&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SawNeon&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SawNeon&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SawNeon&theme=tokyo-night&hide_border=true" />
-</p>
-
 <div align="center">
 
 ![Visitantes](https://komarev.com/ghpvc/?username=SawNeon&color=7aa2f7&style=flat&label=Visitas+no+perfil)
