@@ -17,7 +17,7 @@
 
 ## 👋 Sobre mim
 
-Tenho 22 anos, sou natural de São Paulo - SP e moro em Varginha - MG. Estou cursando Ciência da Computação no UNIS (conclusão prevista para o fim de 2026) e trabalho como **Assistente de TI N1 na Unimed Varginha**, uma operadora de saúde com hospital, laboratório e diagnóstico por imagem próprios.
+Tenho 23 anos, sou natural de São Paulo - SP e moro em Varginha - MG. Estou cursando Ciência da Computação no UNIS (conclusão prevista para o fim de 2026) e trabalho como **Assistente de TI N1 na Unimed Varginha**, uma operadora de saúde com hospital, laboratório e diagnóstico por imagem próprios.
 
 Crio conteúdo sobre desenvolvimento web no canal **[SawNeon](https://www.youtube.com/@sawneon9410)** no YouTube e pratico lógica de programação regularmente no **[beecrowd](https://judge.beecrowd.com/pt/profile/972530)**.
 
